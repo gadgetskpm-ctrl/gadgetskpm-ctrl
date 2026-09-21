@@ -6,7 +6,7 @@
 
 **Digital Products · Interactive Web · AI Automation · IT Systems**
 
-[**Explore ALEMZAI →**](https://alemzai.com) &nbsp;·&nbsp; [**View LeadBridge →**](https://github.com/gadgetskpm-ctrl/leadbridge-showcase) &nbsp;·&nbsp; [**Connect on LinkedIn →**](https://www.linkedin.com/in/imran-alemzai)
+[**ALEMZAI →**](https://alemzai.com) &nbsp;·&nbsp; [**LeadBridge →**](https://github.com/gadgetskpm-ctrl/leadbridge-showcase) &nbsp;·&nbsp; [**Portfolio →**](https://github.com/gadgetskpm-ctrl/imran-alemzai-portfolio) &nbsp;·&nbsp; [**LinkedIn →**](https://www.linkedin.com/in/imran-alemzai)
 
 </div>
 
@@ -20,7 +20,7 @@ I work across product development, creative engineering, automation, digital ope
 
 **Selected capabilities:** Web applications · Interactive experiences · AI automation · Business systems · Digital operations
 
-[**Visit alemzai.com →**](https://alemzai.com)
+[**Explore ALEMZAI →**](https://alemzai.com)
 
 ---
 
@@ -36,7 +36,7 @@ LeadBridge brings listings, business profiles, discovery, saved opportunities, r
 
 The public repository showcases the product and approved technical overview. Production code, security architecture, database implementation, internal workflows, and proprietary business logic remain private.
 
-[**Explore the LeadBridge Showcase →**](https://github.com/gadgetskpm-ctrl/leadbridge-showcase)
+[**Explore LeadBridge →**](https://github.com/gadgetskpm-ctrl/leadbridge-showcase)
 
 ---
 
@@ -46,13 +46,13 @@ The public repository showcases the product and approved technical overview. Pro
 
 A public showcase of selected work across web development, AI systems, automation, digital campaigns, and multimedia experiences.
 
-[**View Live Portfolio →**](https://alemzai.com) · [**View Repository →**](https://github.com/gadgetskpm-ctrl/imran-alemzai-portfolio)
+[**View Portfolio →**](https://github.com/gadgetskpm-ctrl/imran-alemzai-portfolio)
 
 ### LeadBridge Showcase
 
 The approved public product presentation for LeadBridge, separated from the private production platform.
 
-[**View Product Showcase →**](https://github.com/gadgetskpm-ctrl/leadbridge-showcase)
+[**View LeadBridge →**](https://github.com/gadgetskpm-ctrl/leadbridge-showcase)
 
 ---
 
@@ -111,9 +111,9 @@ Technical foundations across hardware, operating systems, troubleshooting, netwo
 
 Building **ALEMZAI** and developing **LeadBridge**, with continued work across modern web engineering, AI automation, cloud technologies, IT infrastructure, and cybersecurity.
 
-**Have a project, system, or business workflow that needs to be built or improved?**
+**Building something ambitious or improving an existing system?**
 
-[**Start with ALEMZAI →**](https://alemzai.com) · [**Connect on LinkedIn →**](https://www.linkedin.com/in/imran-alemzai)
+[**Work with ALEMZAI →**](https://alemzai.com) · [**Connect on LinkedIn →**](https://www.linkedin.com/in/imran-alemzai)
 
 ---
 
