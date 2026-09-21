@@ -2,11 +2,11 @@
 
 # IMRAN ALEMZAI
 
-### Founder of ALEMZAI · Creative Technologist
+### Founder, ALEMZAI · Creative Technologist
 
-**Web Experiences · AI Automation · Digital Systems · IT**
+**Digital Products · Interactive Web · AI Automation · IT Systems**
 
-[**ALEMZAI**](https://alemzai.com) · [**LinkedIn**](https://www.linkedin.com/in/imran-alemzai) · [**GitHub Portfolio**](https://github.com/gadgetskpm-ctrl/imran-alemzai-portfolio)
+[**Explore ALEMZAI →**](https://alemzai.com) &nbsp;·&nbsp; [**View LeadBridge →**](https://github.com/gadgetskpm-ctrl/leadbridge-showcase) &nbsp;·&nbsp; [**Connect on LinkedIn →**](https://www.linkedin.com/in/imran-alemzai)
 
 </div>
 
@@ -14,114 +14,106 @@
 
 ## ALEMZAI
 
-**ALEMZAI** is a creative technology studio focused on building useful, high-quality digital products and systems for businesses.
+**ALEMZAI is a creative technology studio turning business ideas into digital products, intelligent workflows, and high-impact web experiences.**
 
-My work brings together software, interactive web experiences, AI-assisted automation, digital operations, creative production, and practical IT implementation.
+I work across product development, creative engineering, automation, digital operations, and practical IT—taking projects from concept through implementation.
 
-> **Build with purpose. Automate intelligently. Present with impact.**
+**Selected capabilities:** Web applications · Interactive experiences · AI automation · Business systems · Digital operations
+
+[**Visit alemzai.com →**](https://alemzai.com)
 
 ---
 
-## Featured Work
+## Featured Product
 
 ### LeadBridge — An ALEMZAI Product
 
-**B2B marketplace platform for structured business opportunities, services, leads, and partnerships.**
+**A B2B marketplace designed to make business opportunities easier to discover, organize, and manage.**
 
-LeadBridge is being developed as a product under ALEMZAI. Its public GitHub presence intentionally focuses on the product experience and high-level capabilities while proprietary implementation, security architecture, database design, internal workflows, and business logic remain private.
+LeadBridge brings listings, business profiles, discovery, saved opportunities, reporting, moderation, and account dashboards into one structured product experience.
 
-[**View LeadBridge Showcase →**](https://github.com/gadgetskpm-ctrl/leadbridge-showcase)
+`Marketplace` · `Business Profiles` · `Discovery` · `Saved Opportunities` · `Reporting` · `Moderation`
 
-**Product areas**
+The public repository showcases the product and approved technical overview. Production code, security architecture, database implementation, internal workflows, and proprietary business logic remain private.
 
-`Marketplace` · `Business Profiles` · `Discovery` · `Saved Opportunities` · `Reporting` · `Moderation` · `Dashboards`
+[**Explore the LeadBridge Showcase →**](https://github.com/gadgetskpm-ctrl/leadbridge-showcase)
 
 ---
 
+## Selected Work
+
 ### ALEMZAI Portfolio
 
-The public ALEMZAI portfolio presents selected work across web development, AI systems, automation, digital campaigns, and multimedia experiences.
+A public showcase of selected work across web development, AI systems, automation, digital campaigns, and multimedia experiences.
 
-[**Visit alemzai.com →**](https://alemzai.com)  
-[**View Portfolio Repository →**](https://github.com/gadgetskpm-ctrl/imran-alemzai-portfolio)
+[**View Live Portfolio →**](https://alemzai.com) · [**View Repository →**](https://github.com/gadgetskpm-ctrl/imran-alemzai-portfolio)
+
+### LeadBridge Showcase
+
+The approved public product presentation for LeadBridge, separated from the private production platform.
+
+[**View Product Showcase →**](https://github.com/gadgetskpm-ctrl/leadbridge-showcase)
 
 ---
 
 ## Technology
 
-**Web & Product Development**
+**Product & Web**  
+`Next.js` · `React` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `HTML` · `CSS`
 
-`Next.js` · `React` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Tailwind CSS`
-
-**Creative Development**
-
+**Creative Engineering**  
 `GSAP` · `ScrollTrigger` · `Three.js` · `Responsive UI` · `Interactive Experiences`
 
-**Backend & Platform**
-
+**Platform & Data**  
 `Supabase` · `REST APIs` · `Vercel` · `Git` · `GitHub` · `Docker`
 
-**AI & Automation**
-
+**AI & Automation**  
 `n8n` · `Make` · `OpenAI` · `Ollama` · `Workflow Automation`
 
-**IT & Systems**
-
+**IT & Systems**  
 `Windows 10/11` · `PowerShell` · `Active Directory` · `DNS` · `DHCP` · `Networking` · `Help Desk`
 
-**Creative Tools**
-
+**Creative Production**  
 `Photoshop` · `DaVinci Resolve` · `CapCut` · `Videography` · `Digital Content`
 
 ---
 
 ## What I Build
 
-I work across the point where **technology, business, and creative execution** meet:
-
-- Web applications and responsive business websites
-- AI-assisted systems and workflow automation
-- Business dashboards and digital product experiences
-- Interactive front-end experiences and motion
+- Digital products and responsive web applications
+- AI-assisted workflows and business automation
+- Interactive front-end experiences and motion systems
+- Business dashboards and operational tools
 - IT support, troubleshooting, and digital operations
 - Digital campaigns, video, and visual content
 
 ---
 
-## Selected Repositories
+## Project Directory
 
-| Project | Purpose | Access |
+| Project | Role | Access |
 | --- | --- | --- |
 | [**ALEMZAI Portfolio**](https://github.com/gadgetskpm-ctrl/imran-alemzai-portfolio) | Creative technology portfolio and public website | Public |
-| [**LeadBridge Showcase**](https://github.com/gadgetskpm-ctrl/leadbridge-showcase) | Official public product showcase for LeadBridge | Public |
-| **LeadBridge Platform** | Proprietary production engineering repository | Private |
+| [**LeadBridge Showcase**](https://github.com/gadgetskpm-ctrl/leadbridge-showcase) | Official public product presentation | Public |
+| **LeadBridge Platform** | Proprietary production application | Private |
 
 ---
 
-## Professional Development
+## Credentials
 
-**CompTIA A+ Certified**
+**CompTIA A+ Certified** · **Per Scholas IT Support**
 
-IT support foundations spanning hardware, operating systems, troubleshooting, networking, security, and operational procedures.
-
-**Per Scholas — IT Support**
-
-Hands-on technical training focused on practical IT support and professional readiness.
+Technical foundations across hardware, operating systems, troubleshooting, networking, security, and professional IT support.
 
 ---
 
 ## Current Focus
 
-Building **ALEMZAI** and developing **LeadBridge**, while continuing to deepen my work in modern web engineering, AI automation, cloud technologies, IT infrastructure, and cybersecurity.
+Building **ALEMZAI** and developing **LeadBridge**, with continued work across modern web engineering, AI automation, cloud technologies, IT infrastructure, and cybersecurity.
 
-I am interested in collaborating on useful technology, business systems, and digital products where strong execution matters.
+**Have a project, system, or business workflow that needs to be built or improved?**
 
----
-
-## Connect
-
-**Website:** [alemzai.com](https://alemzai.com)  
-**LinkedIn:** [linkedin.com/in/imran-alemzai](https://www.linkedin.com/in/imran-alemzai)
+[**Start with ALEMZAI →**](https://alemzai.com) · [**Connect on LinkedIn →**](https://www.linkedin.com/in/imran-alemzai)
 
 ---
 
